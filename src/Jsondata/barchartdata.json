@@ -1,0 +1,44 @@
+[
+  {
+    "name": "s1",
+    "SP Added": 100,
+    "SP Completed": 70,
+    "SP Planned": 0,
+    "SP Forecost": 0
+  },
+  {
+    "name": "s2",
+    "SP Added": 150,
+    "SP Completed": 100,
+    "SP Planned": 0,
+    "SP Forecost": 0
+  },
+  {
+    "name": "s3",
+    "SP Added": 45,
+    "SP Completed": 60,
+    "SP Planned": 80,
+    "SP Forecost": 0
+  },
+  {
+    "name": "s4",
+    "SP Added": 40,
+    "SP Completed": 70,
+    "SP Planned": 120,
+    "SP Forecost": 0
+  },
+  {
+    "name": "s4",
+    "SP Added": 40,
+    "SP Completed": 80,
+    "SP Planned": 90,
+    "SP Forecost": 0
+  },
+  {
+    "name": "Forecast 1",
+    "SP Added": 0,
+    "SP Completed": 0,
+    "SP Planned": 0,
+    "SP Forecost": 100
+  }
+]

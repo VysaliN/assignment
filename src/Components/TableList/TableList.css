@@ -1,0 +1,20 @@
+.maintable {
+  height: 400px;
+  overflow-y: auto;
+}
+.table {
+  background-color: rgb(243, 247, 243);
+  border-spacing: 0;
+}
+.tablehead td {
+  background-color: #5a5858;
+  color: rgb(238, 232, 232);
+  padding: 10px 30px 10px 30px;
+}
+.tablehead {
+  position: sticky;
+  top: 0;
+}
+.tabledata td {
+  padding: 20px 30px 20px 30px;
+}

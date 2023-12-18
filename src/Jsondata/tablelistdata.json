@@ -1,0 +1,72 @@
+[
+  {
+    "SprintName": "Sprint Name 1",
+    "Status": "Done",
+    "StartDate": "11/07/2022",
+    "EndDate": "15/07/2022",
+    "CompletedDate": "15/07/2022"
+  },
+  {
+    "SprintName": "Sprint Name 2",
+    "Status": "Inprogress",
+    "StartDate": "17/07/2022",
+    "EndDate": "23/07/2022",
+    "CompletedDate": "23/07/2022"
+  },
+  {
+    "SprintName": "Sprint Name 3",
+    "Status": "Done",
+    "StartDate": "28/07/2022",
+    "EndDate": "30/08/2022",
+    "CompletedDate": "23/07/2022"
+  },
+  {
+    "SprintName": "Sprint Name 4",
+    "Status": "Done",
+    "StartDate": "17/07/2022",
+    "EndDate": "23/07/2022",
+    "CompletedDate": "23/07/2022"
+  },
+  {
+    "SprintName": "Sprint Name 5",
+    "Status": "Inprogress",
+    "StartDate": "17/07/2022",
+    "EndDate": "23/07/2022",
+    "CompletedDate": "23/07/2022"
+  },
+  {
+    "SprintName": "Sprint Name 6",
+    "Status": "Done",
+    "StartDate": "17/07/2022",
+    "EndDate": "23/07/2022",
+    "CompletedDate": "23/07/2022"
+  },
+  {
+    "SprintName": "Sprint Name 7",
+    "Status": "Done",
+    "StartDate": "28/07/2022",
+    "EndDate": "30/08/2022",
+    "CompletedDate": "23/07/2022"
+  },
+  {
+    "SprintName": "Sprint Name 8",
+    "Status": "Done",
+    "StartDate": "17/07/2022",
+    "EndDate": "23/07/2022",
+    "CompletedDate": "23/07/2022"
+  },
+  {
+    "SprintName": "Sprint Name 9",
+    "Status": "Inprogress",
+    "StartDate": "17/07/2022",
+    "EndDate": "23/07/2022",
+    "CompletedDate": "23/07/2022"
+  },
+  {
+    "SprintName": "Sprint Name 10",
+    "Status": "Done",
+    "StartDate": "17/07/2022",
+    "EndDate": "23/07/2022",
+    "CompletedDate": "23/07/2022"
+  }
+]

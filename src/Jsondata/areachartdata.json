@@ -1,0 +1,56 @@
+[
+  {
+    "name": " ",
+    "Issue Open": [19, 18],
+    "Issue Started": [18, 17],
+    "Issue Completed": [17, 16]
+  },
+  {
+    "name": "Jan",
+    "Issue Open": [20, 18],
+    "Issue Started": [18, 17],
+    "Issue Completed": [17, 15]
+  },
+  {
+    "name": "Feb",
+    "Issue Open": [20, 18],
+    "Issue Started": [18, 17],
+    "Issue Completed": [17, 15]
+  },
+  {
+    "name": "Mar",
+    "Issue Open": [21, 18],
+    "Issue Started": [18, 17],
+    "Issue Completed": [17, 15]
+  },
+  {
+    "name": "Apr",
+    "Issue Open": [21, 18],
+    "Issue Started": [18, 17],
+    "Issue Completed": [17, 15]
+  },
+  {
+    "name": "May",
+    "Issue Open": [22, 18],
+    "Issue Started": [18, 17],
+    "Issue Completed": [17, 15]
+  },
+  {
+    "name": "June",
+    "Issue Open": [22, 18],
+    "Issue Started": [18, 17],
+    "Issue Completed": [17, 15]
+  },
+  {
+    "name": "July",
+    "Issue Open": [23, 20],
+    "Issue Started": [20, 17],
+    "Issue Completed": [17, 13]
+  },
+  {
+    "name": " ",
+    "Issue Open": [25, 22],
+    "Issue Started": [22, 19],
+    "Issue Completed": [19, 12]
+  }
+]
